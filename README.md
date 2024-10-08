@@ -1,7 +1,7 @@
 # React + Vite
-Para instalar la app
-pnpm i vite-plugin-pwa just-debounce-it
-pnpm run dev 
+* Para instalar la app
+* pnpm i vite-plugin-pwa just-debounce-it
+* pnpm run dev 
 
 https://swheroesfinder.netlify.app/
 
